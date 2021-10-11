@@ -1,0 +1,9 @@
+.footer__column-link {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+  }
+  
+  .footer__column-link:hover {
+    opacity: 0.5;
+  }
